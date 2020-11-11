@@ -8,5 +8,9 @@ namespace apiforwebshop.Models
     public class product
     {
         // this is a comment 
+        // this is a comment 
+        // this is a comment 
+        // this is a comment 
+        // this is a comment 
     }
 }
